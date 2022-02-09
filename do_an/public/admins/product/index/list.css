@@ -1,0 +1,17 @@
+.product_image {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+.image_detail_product {
+    margin-top: 10px;
+    width: 100%;
+
+    object-fit: cover;
+}
+.image_product {
+    margin-top: 20px ;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
